@@ -11,3 +11,4 @@ This theorem seems to present an obstacle to formulating a theory of quantum err
 QEC codes do not always correctly decode logical qubits, but their use reduces the effect of noise. Similar to classical error correction, QEC codes use a syndrome measurement to diagnose which error corrupts an encoded state. 
 An error can then be reversed by applying a corrective operation based on the syndrome 1. Depending on the QEC code used, syndrome measurement can determine the occurrence, location and type of errors. 
 In most QEC codes, the type of error is either a bit flip, or a sign (of the phase) flip, or both (corresponding to the Pauli matrices X, Z, and Y) 1.
+![QEC](https://github.com/DarkStarStrix/Quantum_Error_Correction/assets/108637439/72cf493f-6230-485c-8e56-f4024eb4c989)
